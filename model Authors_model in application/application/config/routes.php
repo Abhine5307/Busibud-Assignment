@@ -1,0 +1,1 @@
+$route['authors/(:num)'] = 'authors';
